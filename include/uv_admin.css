@@ -1,0 +1,23 @@
+.miranda-doc-bold {
+    font-weight: bold;
+}
+
+.miranda-doc-sec {
+    font-size: 1rem;
+
+}
+
+.miranda-doc-para {
+    font-size: 1rem;
+}
+
+.miranda-documentation p {
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+
+.miranda-documentation pre {
+    font-size: 1rem;
+    white-space: normal;
+    margin-left: 3rem;
+}

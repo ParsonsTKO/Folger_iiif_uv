@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="158px" height="36px" viewBox="0 0 158 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-weight="normal">
+        <g id="New-Nav" transform="translate(-300.000000, -98.000000)" fill="#FFFFFF">
+            <g id="Group">
+                <g transform="translate(300.000000, 92.000000)">
+                    <text id="MIRANDA" font-family="PTSerif-Caption, PT Serif Caption" font-size="23" letter-spacing="1">
+                        <tspan x="0" y="23">MIRANDA</tspan>
+                    </text>
+                    <text id="Digital-Asset-Platfo" opacity="0.703591418" font-family=".AppleSystemUIFont" font-size="12" letter-spacing="0.5">
+                        <tspan x="0" y="39">Digital Asset Platfor</tspan>
+                        <tspan x="122.203125" y="39">m</tspan>
+                    </text>
+                    <text id="BETA" opacity="0.250349813" font-family=".AppleSystemUIFont" font-size="11" letter-spacing="0.7333333">
+                        <tspan x="129" y="15">BETA</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="-3 0 160 18"
+   version="1.1"
+   id="svg2"
+  <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title4">Group</title>
+  <desc
+     id="desc6">Created with Sketch.</desc>
+  <defs
+     id="defs8" />
+  <g
+     id="Symbols"
+     font-weight="normal"
+     style="font-weight:normal;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="translate(-2.2573242,1)">
+    <g
+       id="New-Nav"
+       transform="translate(-300,-98)"
+       style="fill:#ffffff">
+      <g
+         id="Group">
+        <g
+           transform="translate(300,92)"
+           id="g13">
+          <text
+             id="MIRANDA"
+             font-size="23"
+             letter-spacing="1"
+             style="font-size:23px;font-family:PTSerif-Caption, 'PT Serif Caption';letter-spacing:1">
+            <tspan
+               x="0"
+               y="23"
+               id="tspan16">MIRANDA</tspan>
+          </text>
+          <text
+             id="BETA"
+             font-size="11"
+             letter-spacing="0.7333333"
+             style="font-size:11px;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif; letter-spacing:0.73333329;opacity:0.25034982">
+            <tspan
+               x="119"
+               y="15"
+               id="tspan19">BETA</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
